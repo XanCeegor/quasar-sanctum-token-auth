@@ -1,6 +1,6 @@
-# A simple file sharing app. (fileshare)
+# Quasar GUI
 
-A simple file sharing app.
+Setup
 
 ## Install the dependencies
 ```bash
